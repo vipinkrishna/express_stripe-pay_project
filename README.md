@@ -1,4 +1,4 @@
-# Stripe Payments Example
+# Stripe Payment Example
 
 ## https://dashboard.stripe.com/account/apikeys
 ## https://dashboard.stripe.com/test/payments
@@ -7,5 +7,5 @@
 #### STRIPE_SECRET_KEY=your secret key here
 #### STRIPE_PUBLIC_KEY=your public key here
 
-https://github.com/vipinkrishna (Wh: +917907450532)
-vipinkrishna.in@gmail.com
+### https://github.com/vipinkrishna (Wh: +917907450532)
+### vipinkrishna.in@gmail.com
