@@ -1,0 +1,27 @@
+{
+  "name": "stripe-payments",
+  "version": "1.0.0",
+  "description": "stripe payments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stripe",
+    "node"
+  ],
+  "author": "vipinkrishna",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vipinkrishna"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "stripe": "^6.21.0"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
