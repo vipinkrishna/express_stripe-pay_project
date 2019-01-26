@@ -1,0 +1,78 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "name": "Album 1",
+      "price": 1299,
+      "imgName": "Album 1.png"
+    },
+    {
+      "id": 2,
+      "name": "Album 2",
+      "price": 1499,
+      "imgName": "Album 2.png"
+    },
+    {
+      "id": 3,
+      "name": "Album 3",
+      "price": 999,
+      "imgName": "Album 3.png"
+    },
+    {
+      "id": 4,
+      "name": "Album 4",
+      "price": 1999,
+      "imgName": "Album 4.png"
+    }
+  ],
+  "electronics": [
+    {
+      "id": 5,
+      "name": "Binocular",
+      "price": 1999,
+      "imgName": "Binocular.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Harddisk",
+      "price": 6999,
+      "imgName": "Harddisk.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Laptop",
+      "price": 42299,
+      "imgName": "Laptop.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ledlamp",
+      "price": 299,
+      "imgName": "Ledlamp.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mouse",
+      "price": 399,
+      "imgName": "Mouse.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sdcard",
+      "price": 499,
+      "imgName": "Sdcard.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Shoe",
+      "price": 599,
+      "imgName": "Shoe.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Watch",
+      "price": 799,
+      "imgName": "Watch.jpg"
+    }
+  ]
+}
