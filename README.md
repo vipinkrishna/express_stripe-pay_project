@@ -1,4 +1,4 @@
-# Stripe Payment Example
+# STRIPE PAYMENT EXAMPLE PROJECT
 
 ## https://dashboard.stripe.com/account/apikeys
 ## https://dashboard.stripe.com/test/payments
